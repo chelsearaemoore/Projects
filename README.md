@@ -23,6 +23,6 @@ Each folder in this respository comprises of the documentation for each project 
 If you want to submit any new thing to this repo that will help the Nanodegree students then feel free to submit the PR.
 
 ### Steps
-1) Fork this repository.
+1) Fork this repository by creating a new branch.
 2) Make the changes inside your repository.
-3) Submit the PR.
+3) Submit the Pull Request.
